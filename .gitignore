@@ -1,0 +1,6 @@
+*.pt
+.amltconfig
+.amltignore
+*.pyc
+**/wandb/
+**/__pycache__/

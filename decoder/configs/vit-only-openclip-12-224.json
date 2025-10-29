@@ -1,0 +1,23 @@
+{
+    "batch_size":48,
+    "cate_num":-1,
+    "checkpoints_dir":"checkpoints",
+    "clip_model":"ViT-L-14",
+    "dataset":"quickdraw-344-classes",
+    "dense_align":true,
+    "epochs":100,
+    "eval_every_n_steps": 1000,
+    "gray_image":false,
+    "image_size":224,
+    "input_dim":1024,
+    "layer":12,
+    "learning_rate":0.0001,
+    "non_background_weight":100,
+    "number_per_class":-1,
+    "project_name":"vit-gradclip-sdxl-layer12",
+    "restore_optimizer":true,
+    "setting":"dense aligner + RGB reconstruction",
+    "train_split":0.999,
+    "val_split":0.0003,
+    "vision_model_name":"openclip/ViT-L-14"
+}
