@@ -17,7 +17,7 @@
 ---
 
 ## 🔥 News
-* **`2025.09.30`** 🚀 Our paper **Latent Sketchpad: Sketching Visual Thoughts to Elicit Multimodal Reasoning in MLLMs** is now available on [arXiv](https://arxiv.org/abs/2501.xxxxx) together with the [code release](https://github.com/hwanyu112/Latent-Sketchpad). Latent Sketchpad ***extends frontier MLLMs (e.g., Gemma3 and Qwen2.5-VL) to interleave text and visual latents generation***, incorporating visual thoughts directly into reasoning.
+* **`2025.10.29`** 🚀 Our paper **Latent Sketchpad: Sketching Visual Thoughts to Elicit Multimodal Reasoning in MLLMs** is now available on [arXiv](https://arxiv.org/abs/2501.xxxxx) together with the [code release](https://github.com/hwanyu112/Latent-Sketchpad). Latent Sketchpad ***extends frontier MLLMs (e.g., Gemma3 and Qwen2.5-VL) to interleave text and visual latents generation***, incorporating visual thoughts directly into reasoning.
 
 
 ## 👀 Contents
@@ -267,12 +267,12 @@ Latent Sketchpad enables **different MLLMs** to perform **interleaved text-and-v
 If you find our work helpful for your research, please consider citing our work.   
 
 ```bibtex
-@article{zhang2025,
-  title={xx},
-  author={xx},
-  journal={arXiv preprint arXiv:xx},
-  year={2025}
-}
+ @article{zhang2025latentsketchpad,
+          title={Latent Sketchpad: Sketching Visual Thoughts to Elicit Multimodal Reasoning in MLLMs},
+          author={Zhang, Huanyu and Wu, Wenshan and Li, Chengzu and Shang, Ning and Xia, Yan and Huang, Yangyu and Zhang, Yifan and Dong, Li and Zhang, Zhang and Wang, Liang and Tan, Tieniu and Wei, Furu},
+          journal={arXiv preprint arXiv:2510.24514},
+          year={2025}
+        }
 ```
 
 ## Related Works
