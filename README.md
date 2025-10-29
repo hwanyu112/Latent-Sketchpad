@@ -17,7 +17,7 @@
 ---
 
 ## 🔥 News
-* **`2025.10.29`** 🚀 Our paper **Latent Sketchpad: Sketching Visual Thoughts to Elicit Multimodal Reasoning in MLLMs** is now available on [arXiv](https://arxiv.org/abs/2501.xxxxx) together with the [code release](https://github.com/hwanyu112/Latent-Sketchpad). Latent Sketchpad ***extends frontier MLLMs (e.g., Gemma3 and Qwen2.5-VL) to interleave text and visual latents generation***, incorporating visual thoughts directly into reasoning.
+* **`2025.10.29`** 🚀 Our paper **Latent Sketchpad: Sketching Visual Thoughts to Elicit Multimodal Reasoning in MLLMs** is now available on [arXiv](https://arxiv.org/abs/2510.24514) together with the [code release](https://github.com/hwanyu112/Latent-Sketchpad). Latent Sketchpad ***extends frontier MLLMs (e.g., Gemma3 and Qwen2.5-VL) to interleave text and visual latents generation***, incorporating visual thoughts directly into reasoning.
 
 
 ## 👀 Contents
