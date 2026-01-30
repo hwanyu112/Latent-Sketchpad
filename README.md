@@ -2,7 +2,7 @@
 
 
 [![Project Page](https://img.shields.io/badge/🌐-Project%20Page-blue)](https://hwanyu112.github.io/Latent-Sketchpad/)
-[![Arxiv](https://img.shields.io/badge/arXiv-2501.01234-b31b1b.svg)](https://arxiv.org/abs/2501.01234)
+[![Arxiv](https://img.shields.io/badge/arXiv-2510.24514-b31b1b.svg)](https://arxiv.org/abs/2510.24514)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/hwanyu112/Latent-Sketchpad?style=social)](https://github.com/hwanyu112/Latent-Sketchpad/stargazers)  
 ![Task: Multimodal Reasoning](https://img.shields.io/badge/Task-Multimodal%20Reasoning-1E90FF)
@@ -11,7 +11,7 @@
 ![Dataset: MazePlanning](https://img.shields.io/badge/Dataset-MazePlanning-FF8C00)
 
 
-<font size=7><div align='center' > [[🍎 Project Page](https://latent-sketchpad.github.io/)] [[📖 arXiv Paper](https://arxiv.org/abs/2408.13257)] [[🤗 Sketch Decoder · Checkpoint](https://huggingface.co/huanyu112/Latent-Sketchpad.Sketch_Decoder)] [[🤗 Dataset · Coming soon]()]  </div></font>
+<font size=7><div align='center' > [[🍎 Project Page](https://latent-sketchpad.github.io/)] [[📖 arXiv Paper](https://arxiv.org/abs/2510.24514)] [[🤗 Sketch Decoder · Checkpoint](https://huggingface.co/huanyu112/Latent-Sketchpad.Sketch_Decoder)] [[🤗 Dataset · Coming soon]()]  </div></font>
 
 
 ---
